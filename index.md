@@ -90,23 +90,23 @@ The symbol is used as a marker for the end of a chapter in Arabic calligraphy. I
 **Sujūd** (Arabic: سُجود‎, [sʊˈdʒuːd]), or **sajdah** (Arabic: سجدة‎, pronounced [[](https://en.wikipedia.org/wiki/Help:IPA/Arabic)ˈsadʒda(tu)]), is an Arabic word meaning prostration to God (Arabic: الله *Allah*) in the direction of the Kaaba at Mecca which is usually done during the daily prayers (*salat*). During the recitation of the Qur'an and during loud recitation prayers there are (15) fifteen[4] places where, sajdah is made: There are two types of Sajdah in the Qur'an which are as followings:
 
 *1. Vajib (obligatory).* The ayas which have Vajib Sajdah are:
-Surah Sajdah: 32:15
-Surah Fusilah: 41:37
-Surah Al-Najm: 53:62
-Surah al-Alaq: 96:19
+- Surah Sajdah: 32:15
+- Surah Fusilah: 41:37
+- Surah Al-Najm: 53:62
+- Surah al-Alaq: 96:19
 
 *2. Mustahab (recommended).* The ayas which have Mustahab Sajadah are:
-Surah Al-Araf: 7:206 
-Surah Al-Ra'd: 13:15
-Surah al-Nahl: 16:49,50
-Surah Bani Isreal: 17:107-109
-Surah Maryam: 19:58
-Surah Haj: 22:18
-Surah Haj: 22:77
-Surah Forqan: 25:60
-Surah Al-Naml: 27:25,26
-Surah Sad: 38:24
-Surah Inshiqaq: 84:21
+- Surah Al-Araf: 7:206 
+- Surah Al-Ra'd: 13:15
+- Surah al-Nahl: 16:49,50
+- Surah Bani Isreal: 17:107-109
+- Surah Maryam: 19:58
+- Surah Haj: 22:18
+- Surah Haj: 22:77
+- Surah Forqan: 25:60
+- Surah Al-Naml: 27:25,26
+- Surah Sad: 38:24
+- Surah Inshiqaq: 84:21
 
 In most copies of the Qur'an these are indicated by ۩ with an over-line on the word/s that invoked the prostration. Unicode symbol used for sajdah is “۩” (U+06E9)
 
