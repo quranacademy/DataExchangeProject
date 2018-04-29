@@ -12,43 +12,43 @@ Meta data for translation
 
 | **Field**              | **Description**                       | **Required** | **Example**                                                    |
 | ---------------------- | ------------------------------------- | ---------- | -------------------------------------------------------------- |
-| LanguageId    | Language id according to ISO 639-3 standard (preffered) if not available then according to ISO 639-3 | Yes   | ru             |
-| LanguageName  | Language name in English language   | Yes   |   Russian |                                                           |
+| **LanguageId**    | Language id according to ISO 639-3 standard (preffered) if not available then according to ISO 639-3 | Yes   | ru             |
+| **LanguageName**  | Language name in English language   | Yes   |   Russian |                                                           |
 
 **2.1 Translation information**
 
 | **Field**              | **Description**                       | **Required** | **Example**                                                    |
 | ---------------------- | ------------------------------------- | ---------- | -------------------------------------------------------------- |
-| TranslationName        | Translation name in original language | Yes   | Перевод смыслов Священного Корана на русском языке             |
-| TranslationNameEnglish | Translation name in English language  | Yes   | Translation of meanings of the Noble Quran in Russian language |
-| TranslationNameArabic  | Translation name in Arabic language   | No   |                                                                |
+| **TranslationName**        | Translation name in original language | Yes   | Перевод смыслов Священного Корана на русском языке             |
+| **TranslationNameEnglish** | Translation name in English language  | Yes   | Translation of meanings of the Noble Quran in Russian language |
+| **TranslationNameArabic**  | Translation name in Arabic language   | No   |                                                                |
 
 **2.2 Author information**
 
 | **Field**         | **Description**                          | **Required** | **Example**   |
 | ----------------- | ---------------------------------------- | ---------- | ------------- |
-| AuthorName        | Author’s name in original language       | Yes   | Эльмир Кулиев |
-| AuthorNameEnglish | Author’s name in English language        | Yes   | Elmir Kuliev  |
-| AuthorNameOther   | Author’s name in other languages         | No   |               |
-| AuthorContactInfo | Author’s contact info email, address etc | No   |               |
+| **AuthorName**       | Author’s name in original language       | Yes   | Эльмир Кулиев |
+|**AuthorNameEnglish** | Author’s name in English language        | Yes   | Elmir Kuliev  |
+| **AuthorNameOther**   | Author’s name in other languages         | No   |               |
+| **AuthorContactInfo** | Author’s contact info email, address etc | No   |               |
 
 **2.3 Revision information**
 
 | **Field**    | **Description**                              | **Required** | **Example** |
 | ------------ | -------------------------------------------- | ---------- | ----------- |
-| RevisionDate | Date when last revision was made. DD/MM/YYYY | Yes   | 15/04/2018  |
-| Version      | The number of the translation version.       | Yes   | 3.0         |
-| Frequency    | Frequency of updates in translation          | No   | biannual    |
+| **RevisionDate** | Date when last revision was made. DD/MM/YYYY | Yes   | 15/04/2018  |
+| **Version**      | The number of the translation version.       | Yes   | 3.0         |
+| **Frequency**    | Frequency of updates in translation          | No   | biannual    |
 
 **2.4 Publishing information**
 
 | **Field**          | **Description**                            | **Required** | **Example**       |
 | ------------------ | ------------------------------------------ | ---------- | ----------------- |
-| ISBN               | ISBN-13 publication number                 | No   | 978-1-56619-909-4 |
-| FirstPublishedDate | Date of publication                        | Yes   | 03/01/2015        |
-| PublishedDate      | Date of publication                        | Yes   | 03/01/2015        |
-| Reviewed           | Name of person reviewed before publication | No   | Ahmad Goktas      |
-| Approved           | Name of person responsible for publication | Yes   | Abu Adel          |
+| **ISBN**              | ISBN-13 publication number                 | No   | 978-1-56619-909-4 |
+| **FirstPublishedDate** | Date of publication                        | Yes   | 03/01/2015        |
+| **PublishedDate**      | Date of publication                        | Yes   | 03/01/2015        |
+| **Reviewed**           | Name of person reviewed before publication | No   | Ahmad Goktas      |
+| **Approved**           | Name of person responsible for publication | Yes   | Abu Adel          |
 
 **2.4 Licensing information**
 The licensing type to be indicated under [Creative Commons](https://creativecommons.org/choose/). Creative Commons provides free, easy-to-use copyright licenses to make a simple and standardized way to give the public permission to share and use the translation.
