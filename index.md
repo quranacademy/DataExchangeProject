@@ -12,43 +12,43 @@ Meta data for translation
 
 **2.1 Translation information**
 
-| **Field**              | **Description**                       | **Status** | **Example**                                                    |
+| **Field**              | **Description**                       | **Required** | **Example**                                                    |
 | ---------------------- | ------------------------------------- | ---------- | -------------------------------------------------------------- |
-| TranslationName        | Translation name in original language | required   | Перевод смыслов Священного Корана на русском языке             |
-| TranslationNameEnglish | Translation name in English language  | required   | Translation of meanings of the Noble Quran in Russian language |
-| TranslationNameArabic  | Translation name in Arabic language   | optional   |                                                                |
+| TranslationName        | Translation name in original language | Yes   | Перевод смыслов Священного Корана на русском языке             |
+| TranslationNameEnglish | Translation name in English language  | Yes   | Translation of meanings of the Noble Quran in Russian language |
+| TranslationNameArabic  | Translation name in Arabic language   | No   |                                                                |
 
 **2.2 Author information**
 
-| **Field**         | **Description**                          | **Status** | **Example**   |
+| **Field**         | **Description**                          | **Required** | **Example**   |
 | ----------------- | ---------------------------------------- | ---------- | ------------- |
-| AuthorName        | Author’s name in original language       | required   | Эльмир Кулиев |
-| AuthorNameEnglish | Author’s name in English language        | required   | Elmir Kuliev  |
-| AuthorNameOther   | Author’s name in other languages         | optional   |               |
-| AuthorContactInfo | Author’s contact info email, address etc | optional   |               |
+| AuthorName        | Author’s name in original language       | Yes   | Эльмир Кулиев |
+| AuthorNameEnglish | Author’s name in English language        | Yes   | Elmir Kuliev  |
+| AuthorNameOther   | Author’s name in other languages         | No   |               |
+| AuthorContactInfo | Author’s contact info email, address etc | No   |               |
 
 **2.3 Revision information**
 
-| **Field**    | **Description**                              | **Status** | **Example** |
+| **Field**    | **Description**                              | **Required** | **Example** |
 | ------------ | -------------------------------------------- | ---------- | ----------- |
-| RevisionDate | Date when last revision was made. DD/MM/YYYY | required   | 15/04/2018  |
-| Version      | The number of the translation version.       | required   | 3.0         |
-| Frequency    | Frequency of updates in translation          | optional   | biannual    |
+| RevisionDate | Date when last revision was made. DD/MM/YYYY | Yes   | 15/04/2018  |
+| Version      | The number of the translation version.       | Yes   | 3.0         |
+| Frequency    | Frequency of updates in translation          | No   | biannual    |
 
 **2.4 Publishing information**
 
-| **Field**          | **Description**                            | **Status** | **Example**       |
+| **Field**          | **Description**                            | **Required** | **Example**       |
 | ------------------ | ------------------------------------------ | ---------- | ----------------- |
-| ISBN               | ISBN-13 publication number                 | optional   | 978-1-56619-909-4 |
-| FirstPublishedDate | Date of publication                        | required   | 03/01/2015        |
-| PublishedDate      | Date of publication                        | required   | 03/01/2015        |
-| Reviewed           | Name of person reviewed before publication | optional   | Ahmad Goktas      |
-| Approved           | Name of person responsible for publication | required   | Abu Adel          |
+| ISBN               | ISBN-13 publication number                 | No   | 978-1-56619-909-4 |
+| FirstPublishedDate | Date of publication                        | Yes   | 03/01/2015        |
+| PublishedDate      | Date of publication                        | Yes   | 03/01/2015        |
+| Reviewed           | Name of person reviewed before publication | No   | Ahmad Goktas      |
+| Approved           | Name of person responsible for publication | Yes   | Abu Adel          |
 
 **2.4 Licensing information**
 The licensing type to be indicated under [Creative Commons](https://creativecommons.org/choose/). Creative Commons provides free, easy-to-use copyright licenses to make a simple and standardized way to give the public permission to share and use the translation.
 
-| **Field** | **Description**                                                | **Status** | **Example**                                                                                                    |
+| **Field** | **Description**                                                | **Required** | **Example**                                                                                                    |
 | --------- | -------------------------------------------------------------- | ---------- | -------------------------------------------------------------------------------------------------------------- |
 | License   | The type of license under which the translation is distributed | required   | [Attribution-NonCommercial-NoDerivatives 4.0 International](http://creativecommons.org/licenses/by-nc-nd/4.0/) |
 
@@ -59,12 +59,12 @@ General meta description of Quran structure to be used by developers. According 
 **3.1 Surah**
 The Quran is divided into surahs (chapters) and further divided into ayat (verses). 
 
-| **Field** ****          | **Description**                                                                    | **Status** | **Example**         |
+| **Field** ****          | **Description**                                                                    | **Required** | **Example**         |
 | ----------------------- | ---------------------------------------------------------------------------------- | ---------- | ------------------- |
-| SurahNumber             | The number of surah from min. value 1 to max. value 114                            | required   | 2                   |
-| SurahNameOriginal       | The name of surah in original language i.e.                                        | required   | The Cow             |
-| SurahNameTransliterated | The name of surah transliterated according to transliteration table (if available) | required   | Al-Baqarah          |
-| SuraNameAlternative     | Alternative names for surah                                                        | optional   | Mother of the Quran |
+| SurahNumber             | The number of surah from min. value 1 to max. value 114                            | Yes   | 2                   |
+| SurahNameOriginal       | The name of surah in original language i.e.                                        | Yes   | The Cow             |
+| SurahNameTransliterated | The name of surah transliterated according to transliteration table (if available) | Yes   | Al-Baqarah          |
+| SuraNameAlternative     | Alternative names for surah                                                        | No   | Mother of the Quran |
 
 **3.2 Ayah** ****
 **Āyah** (/ˈɑːjə/; Arabic: آية‎; plural: **āyāt** آيات) means "evidence" "sign"or "Miracle". In the context of Islam's principal scripture, the Quran, *ayah* is used to mean "verse", i.e. each statement or paragraph marked by a number. The [Unicode](https://en.wikipedia.org/wiki/Unicode) symbol for a Quran verse, U+06DD, is: ۝. [3]
