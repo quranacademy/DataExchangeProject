@@ -10,6 +10,12 @@ The [Language code schemes](https://en.wikipedia.org/wiki/Language_code) should 
 **2.0 Translation of Quran meaning**
 Meta data for translation
 
+| **Field**              | **Description**                       | **Required** | **Example**                                                    |
+| ---------------------- | ------------------------------------- | ---------- | -------------------------------------------------------------- |
+| LanguageId ISO 639-1        | Language id according to ISO 639-1 standard (preffered) | Yes   | ru             |
+| LanguageId ISO 639-3 | Language id according to ISO 639-3 standard (if 639-1 is not available) | No   | rus |
+| LanguageName  | Language name in English language   | Yes   |   Russian |                                                           |
+
 **2.1 Translation information**
 
 | **Field**              | **Description**                       | **Required** | **Example**                                                    |
