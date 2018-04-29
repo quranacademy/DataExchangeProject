@@ -1,4 +1,4 @@
-# Quran Translation Distribution Standards Draft v1.0
+# Quran Translation Distribution Standards Draft
 
 **This is an attempt to develop the standards for the distribution of translation of Quran meanings.**
 
