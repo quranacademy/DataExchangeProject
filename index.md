@@ -1,6 +1,6 @@
 Please refer to wiki for more information
 
-[QuranDataExchange standards and definitions](/wiki)
+[QuranDataExchange standards and definitions](https://github.com/quranacademy/QuranDataExchange/wiki)
 
 **2.0 Translation of Quran meaning**
 Meta data for translation
