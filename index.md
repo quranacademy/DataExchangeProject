@@ -1,6 +1,6 @@
 Please refer to wiki for more information
 
-[QuranDataExchange standards and definitions](https://github.com/quranacademy/QuranDataExchange/wiki)
+[Quran data exchange standards and definitions](https://github.com/quranacademy/QuranDataExchange/wiki)
 
 **3.0 Quran structure meta data description**
 General meta description of Quran structure to be used by developers. According to one estimate the Quran consists of 77,430 words, 18,994 unique words, 12,183 [stems](https://en.wikipedia.org/wiki/Word_stem), 3,382 [lemmas](https://en.wikipedia.org/wiki/Lemma_(morphology)) and 1,685 [roots](https://en.wikipedia.org/wiki/Root_(linguistics)). [1]
