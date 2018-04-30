@@ -1,11 +1,6 @@
-# Quran Translation Distribution Standards Draft
+Please refer to wiki for more information
 
-**This is an attempt to develop the standards for the distribution of translation of Quran meanings.**
-
-Useful links:
-
-**1.0 Language coding**
-The [Language code schemes](https://en.wikipedia.org/wiki/Language_code) should be used in order to define the language code. Language code schemes attempt to classify the complex world of human languages, dialects, and variants. Most schemes make some compromises between being general and being complete enough to support specific dialects. An extension of ISO 639‑2 to cover all known, living or dead, spoken or written languages in 7,589 entries. See: [List of ISO 639-3 codes](https://en.wikipedia.org/wiki/List_of_ISO_639-3_codes)
+[QuranDataExchange standards and definitions](/quranacademy/QuranDataExchange/wiki)
 
 **2.0 Translation of Quran meaning**
 Meta data for translation
