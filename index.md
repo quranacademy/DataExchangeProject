@@ -1,5 +1,4 @@
-
-
+**بِسۡمِ ٱللهِ ٱلرَّحۡمَـٰنِ ٱلرَّحِيمِ
 
 All praise and thanks belongs to Allah, the Creator of all that exists, and may His peace and salutations be upon His last and final messenger, Prophet Muhammad, his family and companions.
 
