@@ -24,6 +24,6 @@ Images, Fonts etc.
 
 List of those that contributed to the project
 
-[**Supporters**] (https://github.com/quranacademy/QuranDataExchange/wiki/Supporters)
+[**Supporters**](https://github.com/quranacademy/QuranDataExchange/wiki/Supporters)
 
 List of projects, websites, people that support these standards and use them.
