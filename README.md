@@ -12,7 +12,7 @@ The mission of this project is to make the Noble Quran easily available everywhe
 
 Descripton and standards used in this project 
 
-**Quran meta data**
+[**Quran meta data**](https://github.com/quranacademy/QuranDataExchange/wiki/Quran-meta-data)
 
 Quran arabic text, Quran structure meta data, Mushaf etc.
 
@@ -20,10 +20,10 @@ Quran arabic text, Quran structure meta data, Mushaf etc.
 
 Images, Fonts etc.
 
-**Contributors**
+[**Contributors**](https://github.com/quranacademy/QuranDataExchange/wiki/Contributors)
 
 List of those that contributed to the project
 
-**Supporters**
+[**Supporters**](https://github.com/quranacademy/QuranDataExchange/wiki/Supporters)
 
 List of projects, websites, people that support these standards and use them.
