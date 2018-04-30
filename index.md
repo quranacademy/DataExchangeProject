@@ -24,4 +24,4 @@ List of those that contributed to the project
 
 **Supporters**
 
-List of projects, websites, people that support this standards and use them.
+List of projects, websites, people that support these standards and use them.
